@@ -4,7 +4,7 @@ const productos = [
     {
         id: "gama-alta-01",
         titulo: "Smartphone Pro X1",
-        imagen: "./img/abrigos/01.jpg",
+        imagen: "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=800",
         categoria: {
             nombre: "Gama alta",
             id: "gama-alta"
@@ -14,7 +14,7 @@ const productos = [
     {
         id: "gama-alta-02",
         titulo: "Ultra Phone Z",
-        imagen: "./img/abrigos/02.jpg",
+        imagen: "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800",
         categoria: {
             nombre: "Gama alta",
             id: "gama-alta"
@@ -24,7 +24,7 @@ const productos = [
     {
         id: "gama-alta-03",
         titulo: "Titan 5G Max",
-        imagen: "./img/abrigos/03.jpg",
+        imagen: "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800",
         categoria: {
             nombre: "Gama alta",
             id: "gama-alta"
@@ -34,7 +34,7 @@ const productos = [
     {
         id: "gama-alta-04",
         titulo: "Nova Elite",
-        imagen: "./img/abrigos/04.jpg",
+        imagen: "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=800",
         categoria: {
             nombre: "Gama alta",
             id: "gama-alta"
@@ -44,7 +44,7 @@ const productos = [
     {
         id: "gama-alta-05",
         titulo: "Orion Premium",
-        imagen: "./img/abrigos/05.jpg",
+        imagen: "https://images.pexels.com/photos/47261/pexels-photo-47261.jpeg?auto=compress&cs=tinysrgb&w=800",
         categoria: {
             nombre: "Gama alta",
             id: "gama-alta"
@@ -55,7 +55,7 @@ const productos = [
     {
         id: "gama-media-01",
         titulo: "Smartphone A20",
-        imagen: "./img/camisetas/01.jpg",
+        imagen: "https://images.pexels.com/photos/341523/pexels-photo-341523.jpeg?auto=compress&cs=tinysrgb&w=800",
         categoria: {
             nombre: "Gama media",
             id: "gama-media"
@@ -65,7 +65,7 @@ const productos = [
     {
         id: "gama-media-02",
         titulo: "Neo Phone 11",
-        imagen: "./img/camisetas/02.jpg",
+        imagen: "https://images.pexels.com/photos/803926/pexels-photo-803926.jpeg?auto=compress&cs=tinysrgb&w=800",
         categoria: {
             nombre: "Gama media",
             id: "gama-media"
@@ -75,7 +75,7 @@ const productos = [
     {
         id: "gama-media-03",
         titulo: "Phone Lite S",
-        imagen: "./img/camisetas/03.jpg",
+        imagen: "https://images.pexels.com/photos/955395/pexels-photo-955395.jpeg?auto=compress&cs=tinysrgb&w=800",
         categoria: {
             nombre: "Gama media",
             id: "gama-media"
@@ -85,7 +85,7 @@ const productos = [
     {
         id: "gama-media-04",
         titulo: "Zen Mobile M",
-        imagen: "./img/camisetas/04.jpg",
+        imagen: "https://images.pexels.com/photos/214487/pexels-photo-214487.jpeg?auto=compress&cs=tinysrgb&w=800",
         categoria: {
             nombre: "Gama media",
             id: "gama-media"
@@ -95,7 +95,7 @@ const productos = [
     {
         id: "gama-media-05",
         titulo: "Pixel One",
-        imagen: "./img/camisetas/05.jpg",
+        imagen: "https://images.pexels.com/photos/1616403/pexels-photo-1616403.jpeg?auto=compress&cs=tinysrgb&w=800",
         categoria: {
             nombre: "Gama media",
             id: "gama-media"
@@ -105,7 +105,7 @@ const productos = [
     {
         id: "gama-media-06",
         titulo: "Alpha 7",
-        imagen: "./img/camisetas/06.jpg",
+        imagen: "https://images.pexels.com/photos/1787220/pexels-photo-1787220.jpeg?auto=compress&cs=tinysrgb&w=800",
         categoria: {
             nombre: "Gama media",
             id: "gama-media"
@@ -115,7 +115,7 @@ const productos = [
     {
         id: "gama-media-07",
         titulo: "Wave Phone",
-        imagen: "./img/camisetas/07.jpg",
+        imagen: "https://images.pexels.com/photos/1852557/pexels-photo-1852557.jpeg?auto=compress&cs=tinysrgb&w=800",
         categoria: {
             nombre: "Gama media",
             id: "gama-media"
@@ -125,7 +125,7 @@ const productos = [
     {
         id: "gama-media-08",
         titulo: "Volt 5",
-        imagen: "./img/camisetas/08.jpg",
+        imagen: "https://images.pexels.com/photos/5082579/pexels-photo-5082579.jpeg?auto=compress&cs=tinysrgb&w=800",
         categoria: {
             nombre: "Gama media",
             id: "gama-media"
@@ -136,7 +136,7 @@ const productos = [
     {
         id: "entrada-01",
         titulo: "Phone Start 1",
-        imagen: "./img/pantalones/01.jpg",
+        imagen: "https://images.pexels.com/photos/1236912/pexels-photo-1236912.jpeg?auto=compress&cs=tinysrgb&w=800",
         categoria: {
             nombre: "Gama de entrada",
             id: "gama-entrada"
@@ -146,7 +146,7 @@ const productos = [
     {
         id: "entrada-02",
         titulo: "Mini Mobile Go",
-        imagen: "./img/pantalones/02.jpg",
+        imagen: "https://images.pexels.com/photos/205421/pexels-photo-205421.jpeg?auto=compress&cs=tinysrgb&w=800",
         categoria: {
             nombre: "Gama de entrada",
             id: "gama-entrada"
@@ -156,7 +156,7 @@ const productos = [
     {
         id: "entrada-03",
         titulo: "Smart Easy",
-        imagen: "./img/pantalones/03.jpg",
+        imagen: "https://images.pexels.com/photos/1279365/pexels-photo-1279365.jpeg?auto=compress&cs=tinysrgb&w=800",
         categoria: {
             nombre: "Gama de entrada",
             id: "gama-entrada"
@@ -166,7 +166,7 @@ const productos = [
     {
         id: "entrada-04",
         titulo: "One Tap 4",
-        imagen: "./img/pantalones/04.jpg",
+        imagen: "https://images.pexels.com/photos/147413/twitter-facebook-together-exchange-of-information-147413.jpeg?auto=compress&cs=tinysrgb&w=800",
         categoria: {
             nombre: "Gama de entrada",
             id: "gama-entrada"
@@ -176,7 +176,7 @@ const productos = [
     {
         id: "entrada-05",
         titulo: "Pocket Phone",
-        imagen: "./img/pantalones/05.jpg",
+        imagen: "https://images.pexels.com/photos/393047/pexels-photo-393047.jpeg?auto=compress&cs=tinysrgb&w=800",
         categoria: {
             nombre: "Gama de entrada",
             id: "gama-entrada"
